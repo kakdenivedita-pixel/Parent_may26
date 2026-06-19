@@ -1,0 +1,3 @@
+[submodule "child"]
+	path = child
+	url = https://github.com/kakdenivedita-pixel/Child_may26.git
